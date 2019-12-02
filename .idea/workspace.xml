@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c1d7471-aff0-4da2-88df-2cf05e24bd5d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tkk4eFxOM8NcT6oIg8fwdLE5zg" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\JavaProjects\romanceabroad\resources" />
+      <recent name="C:\Java\JavaProjects\romanceabroad" />
+      <recent name="C:\Java\JavaProjects\romanceabroad\src\main\java\driverServers" />
+      <recent name="C:\Java\JavaProjects\romanceabroad\driverServers" />
+      <recent name="C:\Java\JavaProjects\romanceabroad\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.PrettyWomenTests.PrettyWomenLinkTest">
+    <configuration name="C:/Java/JavaProjects/romanceabroad/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romanceabroad" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romanceabroad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romanceabroad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrettyWomenTests.PrettyWomenLinkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romanceabroad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrettyWomenTests" />
+      <option name="METHOD_NAME" value="PrettyWomenLinkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToursToUkraineTests.ToursToUkraineLinkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romanceabroad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ToursToUkraineTests" />
+      <option name="METHOD_NAME" value="ToursToUkraineLinkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PrettyWomenTests.PrettyWomenLinkTest" />
+        <item itemvalue="TestNG.C:/Java/JavaProjects/romanceabroad/TestNG.xml" />
+        <item itemvalue="TestNG.FirstTest.test1" />
+        <item itemvalue="TestNG.FirstTest.test2" />
+        <item itemvalue="TestNG.ToursToUkraineTests.ToursToUkraineLinkTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c1d7471-aff0-4da2-88df-2cf05e24bd5d" name="Default Changelist" comment="" />
+      <created>1574011290836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574011290836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/romanceabroad$FirstTest_test1.ic" NAME="FirstTest.test1 Coverage Results" MODIFIED="1574082828790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
